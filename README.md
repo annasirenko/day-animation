@@ -1,3 +1,3 @@
-## Practicing with GSAP and Barba.js
+## Playing around with GSAP, ScrollMagic and Barba.js
 
-## https://annasirenko.github.io/days/
+## https://annasirenko.github.io/day-animation/
