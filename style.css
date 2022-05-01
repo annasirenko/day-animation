@@ -171,6 +171,10 @@ main {
   background: white;
   transform: scale(3);
 }
+.cursor.img-active{
+  backdrop-filter: blur(4px);
+  /* backdrop-filter: grayscale(); */
+}
 .cursor-text {
   position: absolute;
   top: 50%;
@@ -366,3 +370,4 @@ body.hide {
     text-align: center;
   }
 }
+
